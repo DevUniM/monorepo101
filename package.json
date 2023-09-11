@@ -1,0 +1,14 @@
+{
+  "name": "nest-microservice101",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "turbo start",
+    "dev": "turbo dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "turbo": "^1.10.13"
+  }
+}
